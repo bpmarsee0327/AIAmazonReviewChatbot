@@ -1,0 +1,4 @@
+{
+  "name": "ReviewLens Dashboard",
+  "description": "A dashboard that analyzes Amazon product URLs, summarizes reviews, extracts key topics with sentiment, and provides a chatbot for deeper insights."
+}
